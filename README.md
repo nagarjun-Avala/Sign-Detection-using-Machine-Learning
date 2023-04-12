@@ -4,7 +4,6 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-![ASL[^1] signs](https://www.researchgate.net/publication/328396430/figure/fig1/AS:683619848830976@1539999081795/The-26-letters-and-10-digits-of-American-Sign-Language-ASL.jpg)
 
 ### Steps
 
@@ -38,6 +37,10 @@ pip install -r requirements.txt
 
 - train : We will update soon
 - test : We will update soon
+
+---
+
+![ASL signs](https://www.researchgate.net/publication/328396430/figure/fig1/AS:683619848830976@1539999081795/The-26-letters-and-10-digits-of-American-Sign-Language-ASL.jpg)
 
 
 [^1]: ASL - American Sign Language
