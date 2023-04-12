@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - train : We will update soon
 - test : We will update soon
 
-![ASL Signs](signs.png "ASL Signs")
+![ASL Signs](../../signs.png "ASL Signs")
 
 
 [^1]: ASL - American Sign Language
