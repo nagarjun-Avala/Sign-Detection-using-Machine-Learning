@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ###### 2. Collecting data
 
 1.  Run collect-data.py
-1.  Take 50 photos of the ASL sings you needed
+1.  Take 50 photos of the ASL[^1] sings you needed
 
 ###### 3. Pre-Processing
 
