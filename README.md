@@ -4,7 +4,7 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-![plot](./sign.png "ASL[^1] signs")
+![ASL[^1] signs](./sign.png "ASL[^1] signs")
 
 ### Steps
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ###### 2. Collecting data
 
 1.  Run collect-data.py
-1.  Take 50 photos of the ASL[^1] sings you needed
+1.  Take 50 photos of the ASL sings you needed
 
 ###### 3. Pre-Processing
 
