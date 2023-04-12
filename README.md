@@ -38,7 +38,10 @@ pip install -r requirements.txt
 - train : We will update soon
 - test : We will update soon
 
-![ASL Signs](../../signs.png "ASL Signs")
+
+<p align="center">
+  <img src="../../signs.png" width="350" alt="ASL Signs">
+</p>
 
 
 [^1]: ASL - American Sign Language
