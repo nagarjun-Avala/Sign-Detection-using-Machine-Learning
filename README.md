@@ -4,7 +4,7 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-![ASL[^1] signs]([https://github.com/nagarjun-Avala/Sign-Detection-using-Machine-Learning/sign.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-26-letters-and-10-digits-of-American-Sign-Language-ASL_fig1_328396430&psig=AOvVaw3QzdwkYo6Ocjq0FcKCBDvu&ust=1681400253728000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiNhpnWpP4CFQAAAAAdAAAAABAE) "ASL[^1] signs")
+![ASL[^1] signs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-26-letters-and-10-digits-of-American-Sign-Language-ASL_fig1_328396430&psig=AOvVaw3QzdwkYo6Ocjq0FcKCBDvu&ust=1681400253728000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiNhpnWpP4CFQAAAAAdAAAAABAE "ASL[^1] signs")
 
 ### Steps
 
