@@ -4,13 +4,6 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-dataset :
-
-- train : We will update soon
-- test : We will update soon
-
----
-
 ### Steps
 
 ###### 1. Install all the libraries using this command
@@ -36,6 +29,14 @@ pip install -r requirements.txt
 ###### 5. Application
 
 1.  Run app.py and you can show sing to the camera and the model will detect the corresponding Letter
+
+---
+
+dataset :
+
+- train : We will update soon
+- test : We will update soon
+
 
 [^1]: ASL - American Sign Language
 [^2]: RGB - Red Green Blue colors
