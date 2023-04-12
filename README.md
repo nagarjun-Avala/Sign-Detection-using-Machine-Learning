@@ -29,11 +29,11 @@ pip install -r requirements.txt
 1.  Run preprocessing.py
 1.  This will transform all the RGB[^2] images to gray scaled images to improve the model training
 
-###### 3. Training the Model
+###### 4. Training the Model
 
 1.  Run train.py
 
-###### 4. Application
+###### 5. Application
 
 1.  Run app.py and you can show sing to the camera and the model will detect the corresponding Letter
 
