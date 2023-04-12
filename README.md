@@ -13,7 +13,7 @@ dataset :
 
 ### Steps
 
-###### 1. Install all the libraries
+###### 1. Install all the libraries using this command
 
 ```bash
 pip install -r requirements.txt
@@ -22,4 +22,6 @@ pip install -r requirements.txt
 ###### 2. Collecting data
 
 1.  Run collect-data.py
-1.  Take 50 photos of the ASL sings
+1.  Take 50 photos of the ASL[^1] sings you needed
+
+[^1]: American Sign Language
