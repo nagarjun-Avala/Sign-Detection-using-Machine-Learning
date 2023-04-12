@@ -11,8 +11,6 @@ dataset :
 
 ---
 
----
-
 ### Steps
 
 ###### 1. Install all the libraries
