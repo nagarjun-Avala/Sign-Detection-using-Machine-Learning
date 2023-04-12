@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ---
 
-![ASL Signs](sign.png)
+![ASL Signs](signs.png)
 
 
 [^1]: ASL - American Sign Language
