@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-26-letters-and-10-digits-of-American-Sign-Language-ASL_fig1_328396430&psig=AOvVaw3pRUn-vjsSzOfrH1G4RVjR&ust=1681400973553000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCskPDYpP4CFQAAAAAdAAAAABAE" width="350" alt="ASL Signs">
+  <img src="../../signs.png" width="350" alt="ASL Signs">
 </p>
 
 
