@@ -1,4 +1,7 @@
-# Sign-Detection-using-Machine-Learning
+<p align="center">
+  # Sign-Detection-using-Machine-Learning
+</p>
+
 
 A Simple Python application that will recognize the American Signs and converts into text in realtime. It uses CNN to train the required models for prediction. The dataset is custom made.
 
