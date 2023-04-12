@@ -11,8 +11,17 @@ dataset :
 
 ---
 
-### Commands to install libraries
+---
+
+### Steps
+
+###### 1. Install all the libraries
 
 ```bash
 pip install -r requirements.txt
 ```
+
+###### 2. Collecting data
+
+1.  Run collect-data.py
+1.  Take 50 photos of the ASL sings
