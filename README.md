@@ -4,7 +4,7 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-![ASL[^1] signs](./sign.png "ASL[^1] signs")
+![ASL[^1] signs](https://github.com/nagarjun-Avala/Sign-Detection-using-Machine-Learning/sign.png "ASL[^1] signs")
 
 ### Steps
 
