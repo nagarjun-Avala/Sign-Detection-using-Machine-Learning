@@ -24,4 +24,18 @@ pip install -r requirements.txt
 1.  Run collect-data.py
 1.  Take 50 photos of the ASL[^1] sings you needed
 
-[^1]: American Sign Language
+###### 3. Pre-Processing
+
+1.  Run preprocessing.py
+1.  This will transform all the RGB[^2] images to gray scaled images to improve the model training
+
+###### 3. Training the Model
+
+1.  Run train.py
+
+###### 4. Application
+
+1.  Run app.py and you can show sing to the camera and the model will detect the corresponding Letter
+
+[^1]: ASL - American Sign Language
+[^2]: RGB - Red Green Blue colors
