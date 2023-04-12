@@ -1,5 +1,5 @@
 <p align="center">
-  # Sign-Detection-using-Machine-Learning
+  <h1>Sign-Detection-using-Machine-Learning</h1>
 </p>
 
 
