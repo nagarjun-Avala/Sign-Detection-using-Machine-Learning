@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ---
 
-![ASL signs](https://www.researchgate.net/publication/328396430/figure/fig1/AS:683619848830976@1539999081795/The-26-letters-and-10-digits-of-American-Sign-Language-ASL.jpg)
+![ASL Signs](sign.png)
 
 
 [^1]: ASL - American Sign Language
