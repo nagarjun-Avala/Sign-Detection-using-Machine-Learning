@@ -4,6 +4,8 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
+![plot](./sign.png)
+
 ### Steps
 
 ###### 1. Install all the libraries using this command
