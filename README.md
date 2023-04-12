@@ -4,7 +4,7 @@ A Simple Python application that will recognize the American Signs and converts 
 
 ---
 
-![plot](./sign.png)
+![plot](./sign.png "ASL[^1] signs")
 
 ### Steps
 
